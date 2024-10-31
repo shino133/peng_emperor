@@ -4,6 +4,16 @@
 
 ## Development
 
+Install:
+
+```
+npm install
+```
+
+Database:
+npx drizzle-kit generate
+npx drizzle-kit migrate
+
 Run the dev server:
 
 ```shellscript
